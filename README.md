@@ -29,7 +29,7 @@ Google Cloud Platform
 4. Looker Studio: Looker Studio is a BI tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports
 
 Workflow Management
-Apache Airflow - Apache Airflow is an open-source platform for authoring, scheduling and monitoring data and computing workflows.
+Apache Airflow - Apache Airflow is an open-source platform for authoring, scheduling and monitoring data and computing workflows. \
 Modern Data Pipeine Tool - https://www.mage.ai/ - Modern alternative to Apache Airflow 
 
 ## Dataset Used
