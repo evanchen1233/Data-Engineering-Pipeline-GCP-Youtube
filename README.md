@@ -4,12 +4,13 @@
 ### The goal of this project is to build data pipeline and data analysis on YouTube trending data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, Apache Airflow, BigQuery, and Looker Studio.
 
 ## Project Steps/Goals
-1. Create bucket on Cloud Storage
-2. Write ETL and DAG code in pyton and test on Jupyter Notebook 
-3. Create, setup Apache Airflow and load ETL and DAG code on VM
+1. Create bucket on Cloud Storage and load Raw CSV and JSON files.
+2. Write ETL and DAG code in Python and test on Jupyter Notebook .
+3. Create, setup Apache Airflow and load ETL and DAG code on VM.
 4. Load to Bigquery as Data Warehouse. Futher analysis with sql queries.
-5. Collect subset of data warehouse for BI dashboard and load to Looker Studio
+5. Collect subset of data warehouse for BI dashboard and load to Looker Studio.
 6. Create dashboard on Looker Studio.
+7. Use Mage AI instead of Apache Airflow and compare Pros and Cons.
 
 ## Architecture
 ![Untitled-2023-05-21-1857](https://github.com/evanchen1233/Data-Engineering-Pipeline-GCP-Project-Youtube-Trending-Data/assets/101177476/59bbfdba-de9b-4cf5-b4a8-8c45aebd17b4)
